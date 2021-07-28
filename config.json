@@ -2,6 +2,6 @@
   "webhookID": "https://discord.com/api/webhooks/869790917031235664/1pOBcJSFRiUzBL4H81ZTuppvekTe3MNIsthhylT2o10tT0bxoiXC-eNHV77qJjiNNEAn",
   "webhookToken": "BABYCAKE",
   "interval": 2,
-  "watchlist": ["babycake"],
+  "watchlist": ["BABYCAKE"],
   "compare": ["usd"]
 }
